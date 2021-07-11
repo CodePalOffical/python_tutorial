@@ -2,7 +2,7 @@
 # Strings
 name = "PalCode"
 
-# print("My name is " + name)
+print("My name is " + name)
 
 # Numbers 
 
@@ -15,32 +15,33 @@ z = x # 5
 # total = 22 
 total = x + y + z 
 
-# print("Value of x = " + str(x))
-# print("Value of y = " + str(y))
-# print("Value of z = " + str(z))
-# print("Value of total = " + str(total))
+print("Value of x = " + str(x))
+print("Value of y = " + str(y))
+print("Value of z = " + str(z))
+print("Value of total = " + str(total))
 
 
 # Bool or Boolean
 
-# status = True
+status = True
 
-# print("Value of Status = " + str(status))
+print("Value of Status = " + str(status))
 
-# status = False 
+status = False 
 
-# print("Value of Status = " + str(status))
+print("Value of Status = " + str(status))
 
 
 # List 
 
 fruits = ["apples", "oranges", "bananas", "mangos"]
 newList = [[1, 2, 4], [2, 9, 8], [1, 8, 6]]
-# print(fruits)
-# print(newList)
 
-# print("lenght of the fruits list is " + str(len(fruits)))
-# print("lenght of the newList list is " + str(len(newList)))
+print(fruits)
+print(newList)
+
+print("lenght of the fruits list is " + str(len(fruits)))
+print("lenght of the newList list is " + str(len(newList)))
 
 # Index 
 
