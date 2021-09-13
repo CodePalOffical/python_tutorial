@@ -3,7 +3,7 @@
 # A person is an adult if they are older than and equal 18 years old
 # Otherwise they are not a adult 
 
-age = int(input("What is you age? "))
+age = int(input("What is your age? "))
 
 # if they are older than and equal 18 years old
 if age >= 18:
